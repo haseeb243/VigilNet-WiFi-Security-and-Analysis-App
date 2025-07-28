@@ -15,7 +15,7 @@ Vigilant is a Flutter app for Android that helps users monitor data usage, disco
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/haseeb243/VigilNet-WiFi-Security-and-Analysis-App.git
    ```
 2. **Install dependencies:**
    ```
